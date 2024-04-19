@@ -1,2 +1,2 @@
 # mvidia-nlp
-CSE NLP Capston Project
+CSE NLP Capstone Project
